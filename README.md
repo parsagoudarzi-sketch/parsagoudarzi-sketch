@@ -1,5 +1,4 @@
-# ⚡ PARSA | Software Engineer · Systems Architect · Digital Architect of Chaos
-
+# I’m Parsa, and I’m interested in every random thing you can possibly imagine.
 > *"If it can be automated, optimized, or completely rebuilt from scratch — I'm probably already working on it."*
 
 **Software Developer · Embedded Systems Engineer · Linux Enthusiast · Full-Stack Explorer**
